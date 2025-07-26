@@ -3,7 +3,7 @@ Welcome to the Pipeline VR Game test build! This is an early version of the game
 📦 Download
 Download the APK here:
 
-👉 Download [Apk]https://www.mediafire.com/file/ylo4ycfshv6nzka/plv2test3.apk/file
+👉 Download [Apk](https://www.mediafire.com/file/ylo4ycfshv6nzka/plv2test3.apk/file)
 
 ⚠️ You must sideload the APK onto your VR headset. Make sure developer mode is enabled on your device.
 
